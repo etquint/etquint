@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 - <b>Linux Commands Practice</b>
-  - [Managing Authorization](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Managing Authorization](https://github.com/etquint/Linux-Lab)
 
 <h2>Certifications</h2>
 - <b>Google Cyber Security Professional Certificate - expected June 2024</b>
