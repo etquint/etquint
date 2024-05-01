@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 <b>Linux Commands Practice</b>
-  -[Manage Authorizations](https://github.com/etquint/Linux-Lab/tree/main?tab=readme-ov-file#linux-lab---manage-authorization)
+ <b> -[Manage Authorizations](https://github.com/etquint/Linux-Lab/tree/main?tab=readme-ov-file#linux-lab---manage-authorization)</b>
 
 
 <h2>Certifications</h2>
