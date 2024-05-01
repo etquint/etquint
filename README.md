@@ -1,9 +1,8 @@
 <h1>Hi, I'm Ellisia Quintana <h1></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
-<b>Linux Commands Practice</b>
- <b> -[Manage Authorizations](https://github.com/etquint/Linux-Lab/tree/main?tab=readme-ov-file#linux-lab---manage-authorization)</b>
-
+- <b>Linux Commands Practice</b>
+  - [Managing Authorization](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>Certifications</h2>
 - <b>Google Cyber Security Professional Certificate - expected June 2024</b>
